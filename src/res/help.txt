@@ -1,0 +1,36 @@
+
+
+                  🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
+                  🔥                          🔥
+                  🔥       Experimental       🔥
+                  🔥         Framer X         🔥
+                  🔥       File Watcher       🔥
+                  🔥           v0.2           🔥
+                  🔥                          🔥
+                  🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
+
+
+Basic Usage:
+    framerxwatcher <FramerX Project File> <Source Folder> [auth-key] [flags]
+
+    [Coming soon!]
+    If the project file doesn't exist yet, you need to specify an auth-key
+    for Framer X's package registry. Aternatively, another Framer X project
+    can be used.
+
+    If the source folder doesn't exist yet, it'll be automatically created,
+    so no worries about that 😊
+
+    To exit the script, use ctrl + c.
+
+Additional Flags (Both Emoji 💁‍ and non-Emoji text works):
+    -v    / 📢  : Verbose Mode
+    -help / ❓  : This message
+    -nn   / 🔕  : Disables notifications
+
+Cool Info:
+    This script was made by Lucas Ritter https://github.com/lucasritter,
+    who was annoyed that he couldn't properly share the source code of
+    some of his projects. He also likes to talk about himself in the
+    third person.
+
