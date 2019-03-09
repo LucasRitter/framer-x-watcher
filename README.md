@@ -1,3 +1,8 @@
+# Update!
+Since Framer X v15, you can hold the **⌥** (Options) key on your keyboard and click the `File` menu in the app bar. There'll be an option to `Save As..`. Click that and select the folder format. That feature makes this project obsolete now since that's a much better way to collaborate.
+
+----
+
 # Framer X Watcher
 
 ### What's this? 🤔
